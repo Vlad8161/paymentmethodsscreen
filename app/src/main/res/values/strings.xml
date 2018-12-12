@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Talan</string>
+    <string name="title_payment_methods">Доступные способы оплаты</string>
+</resources>
